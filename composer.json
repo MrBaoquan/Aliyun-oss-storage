@@ -15,13 +15,13 @@
     },
     "autoload": {
         "psr-4": {
-            "mrbaoquan\\AliOSS\\": "src/"
+            "MrBaoquan\\AliOSS\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "mrbaoquan\\AliOSS\\AliOssServiceProvider"
+                "MrBaoquan\\AliOSS\\AliOssServiceProvider"
             ]
         }
     }
